@@ -30,14 +30,6 @@ be [max up to 7 Bluetooth connections](https://stackoverflow.com/a/32149519/4880
 
 For now there is only Android support.
 
-## PIX
-
-Sua contribuição ajudará a impulsionar o desenvolvimento de ferramentas de
-qualidade para a comunidade de desenvolvedores Flutter e Dart. Qualquer quantia
-será apreciada. Obrigado pelo seu apoio contínuo!
-
-[![PIX](helpers/pix.png)](https://nubank.com.br/pagar/2bt2q/RBr4Szfuwr)
-
 ## Getting Started
 
 #### Depending
@@ -101,14 +93,5 @@ Arduino HC-05 and Raspberry Pi (RFCOMM) Bluetooth interfaces.
 |:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|
 | ![](https://i.imgur.com/qeeMsVe.png) | ![](https://i.imgur.com/zruuelZ.png) | ![](https://i.imgur.com/y5mTUey.png) | ![](https://i.imgur.com/3wvwDVo.png) |
 
-## To-do list
-
-+ Add some utils to easier manage `BluetoothConnection` (see discussion #41),
-+ Allow connection method/protocol/UUID specification,
-+ Listening/server mode,
-+ Recognizing and displaying `BluetoothClass` of device,
-+ Maybe integration with `flutter_blue` one day ;)
-
-You might also want to
-check [milestones](https://github.com/edufolly/flutter_bluetooth_serial/milestones).
-
+## Credits
+- This library is forked from <https://github.com/tientham/flutter_bluetooth_serial>.
